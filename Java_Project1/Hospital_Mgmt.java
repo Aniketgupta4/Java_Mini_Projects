@@ -61,7 +61,6 @@ class Appointment{
     }
 }
 
-
 public class Hospital_Mgmt {
     
     public static void main(String args[]){
