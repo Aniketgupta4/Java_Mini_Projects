@@ -1,6 +1,7 @@
 package Java_Project1;
 import java.util.*;
 
+
 // Patient class
 class Patient{
     int id;
@@ -83,3 +84,4 @@ public class Hospital_Mgmt {
     }
 
 }
+
