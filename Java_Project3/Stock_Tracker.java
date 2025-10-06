@@ -8,6 +8,7 @@ class Stock implements Serializable{
     int quantity;
     double currentPrice;
 
+    
     public Stock(String name,double buyPrice,int quantity){
         this.name = name;
         this.buyPrice = buyPrice;
@@ -158,3 +159,4 @@ public class Stock_Tracker {
         }
     }
 }
+
