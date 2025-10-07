@@ -16,6 +16,7 @@ class Stock implements Serializable{
         this.currentPrice = buyPrice;
     }
 
+    
     public void updatePrice(double price){
         this.currentPrice = price;
     }
@@ -159,4 +160,5 @@ public class Stock_Tracker {
         }
     }
 }
+
 
